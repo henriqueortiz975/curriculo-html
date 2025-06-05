@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-Exemplo de Box Model, div{
+.Exemplo{
     width: 300px;
     height: 150px;
     background-color: #d3eaff;
