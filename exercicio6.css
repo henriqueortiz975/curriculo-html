@@ -1,0 +1,13 @@
+.Exemplo1 {
+    width: 300px;
+    padding: 20px;
+    border: 5px;
+}
+
+.Exemplo2 {
+    border-color: black;
+    width: 300px;
+    padding: 20px;
+    border: 5px;
+    box-sizing: border-box;
+}
