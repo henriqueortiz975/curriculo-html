@@ -5,8 +5,10 @@ exercicio 3(box model):Agora qual é o tamanho total da caixa incluindo conteúd
 25px
 
 5)Utilize a ferramenta de inspeção do navegador (F12) para examinar a estrutura da caixa e confirmar os valores de:
-
 - Margem: 218px
 - Borda: 109px
 - Preenchimento: 486px
 - Tamanho do conteúdo: 972px
+
+6)Qual delas ultrapassou os 300px de largura? Por quê?
+A figura que não possui o (box-sizing: border-box) fica com mais de 300px, porque esse comando soma os aspectos, e então o que não possui acaba somando o total.
